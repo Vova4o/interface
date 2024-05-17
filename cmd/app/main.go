@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"fmt"
 
-	"interface/internal/handlers"
-	"interface/internal/services"
-	"interface/internal/storage"
+	"github.com/Vova4o/interface/internal/handlers"
+	"github.com/Vova4o/interface/internal/services"
+	"github.com/Vova4o/interface/internal/storage"
 )
 
 func main() {
